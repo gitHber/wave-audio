@@ -1,0 +1,25 @@
+.audio {
+  position: absolute;
+  top:50%;
+  left: 50%;
+  margin: 0 auto;
+  padding-top: 5px;
+  min-width: 240px;
+  min-height: 90px;
+  text-align: center;
+  border: 1px solid #598;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 2px 2px 5px #598;
+}
+.audio .waves {
+  width: 100%;
+  height: 80%;
+  min-height: 40px;
+}
+.audio .audio-source{
+  width:100%;
+  height: 20%;
+  min-height: 50px;
+  border-top: 1px solid gray;
+}

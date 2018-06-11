@@ -1,0 +1,10 @@
+{
+	"name": "wave-audio",
+	"version": "1.0.0",
+	"description": "A Wave Audio",
+	"main": "./lib/Audio.jsx",
+	"author": "likun",
+	"dependencies": {
+		
+	}
+}
