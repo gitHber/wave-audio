@@ -1,22 +1,22 @@
 [English](./README.md) | [中文简体](./README-zh.md)
 
-## Introduce
+## 简介
 
-A React Audio Component(can drag), support wave or bar to show
+一个 React Audio 组件(可拖拽)，支持波状和柱状显示
 
-### bar
+### 柱状
 
 ![image](./image/bar.png)
 
-### wave
+### 波形
 
 ![image](./image/wave.png)
 
-## Install
+## 安装
 
 > \$ npm install wave-audio
 
-## Useage
+## 使用
 
 ```
 import WaveAudio from 'wave-audio';

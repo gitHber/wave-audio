@@ -1,0 +1,56 @@
+.wave-time-bar {
+  position: relative;
+  display: inline-block;
+  height: 3px;
+  width: 50px;
+  background: #595959;
+}
+
+.wave-time-bar .wave-progress-bar {
+  position: absolute;
+  display: inline-block;
+  left: 0;
+  height: 3px;
+  width: 0px;
+  background: #000;
+}
+
+.wave-time-bar .wave-time-circle {
+  list-style: none;
+  display: block;
+  position: relative;
+  top: -4px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #000;
+}
+
+.wave-time-bar-vertical {
+  position: relative;
+  display: inline-block;
+  height: 50px;
+  width: 3px;
+  background: #595959;
+  transform: rotate(180deg);
+}
+
+.wave-time-bar-vertical .wave-progress-bar-vertical {
+  position: absolute;
+  display: inline-block;
+  left: 0;
+  height: 0px;
+  width: 3px;
+  background: #000;
+}
+
+.wave-time-bar-vertical .wave-time-circle {
+  list-style: none;
+  display: block;
+  position: relative;
+  left: -4px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #000;
+}
