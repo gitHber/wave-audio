@@ -4,6 +4,14 @@
   "description": "A Wave Audio React Component",
   "main": "dist/bundle.js",
   "author": "gitHber",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitHber/wave-audio"
+  },
+  "bugs": {
+    "url" : "https://github.com/gitHber/wave-audio/issues",
+    "email" : "18334788273@163.com"
+  },
   "files": [
     "dist"
   ],
