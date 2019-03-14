@@ -24,3 +24,6 @@ import WaveAudio from 'wave-audio';
 <WaveAudio src="demo.mp3" />
 ...
 ```
+
+## 协议
+wave-audio is [MIT Licensed](./LICENSE).
