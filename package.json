@@ -19,7 +19,7 @@
     "react",
     "audio"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "build": "webpack --env.NODE_ENV=production",
     "dev": "webpack-dev-server"
