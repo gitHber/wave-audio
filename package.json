@@ -1,6 +1,6 @@
 {
   "name": "wave-audio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Wave Audio React Component",
   "main": "dist/bundle.js",
   "author": "gitHber",
