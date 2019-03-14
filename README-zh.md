@@ -1,4 +1,4 @@
-# [wave-audio](https://reactjs.org/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+# [wave-audio](https://github.com/gitHber/wave-audio) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [English](./README.md) | [中文简体](./README-zh.md)
 
 ## 简介
